@@ -18,6 +18,8 @@ public class test {
 		
 		System.out.println("i create a new branch");
 		
+		System.out.println("make some changes in the master branch");
+		
 
 	}
 
