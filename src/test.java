@@ -4,8 +4,6 @@ public class test {
 		// TODO Auto-generated method stub
 		System.out.println("This is the main class of this project");
 		System.out.println("how about this");
-		
-		System.out.println("Ruan Zizhe Wrote this");
 	}
 
 }
