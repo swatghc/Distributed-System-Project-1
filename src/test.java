@@ -14,13 +14,9 @@ public class test {
 		
 		System.out.println("hello there");
 		
-		System.out.println("ds");
+		System.out.println("zen me shuo");
 		
-		System.out.println("i create a new branch");
-		
-		System.out.println("make some changes in the master branch");
-		
-		System.out.println("i guess it is working");
+	
 		
 
 	}
