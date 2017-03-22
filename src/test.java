@@ -20,7 +20,7 @@ public class test {
 		
 		//hen shu fu !
 		
-		//hey hey!
+		//it is a good day
 		
 		
 	
