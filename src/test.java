@@ -14,7 +14,17 @@ public class test {
 		
 		System.out.println("hello there");
 		
-		System.out.println("ds");
+		System.out.println("zen me shuo");
+		
+		//wa!!!
+		
+		//hen shu fu !
+		
+		//hey hey!
+		
+		
+	
+		
 
 	}
 
