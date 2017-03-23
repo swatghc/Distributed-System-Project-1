@@ -18,8 +18,7 @@ public class test {
 		
 		//wa!!!
 		
-<<<<<<< Updated upstream
-=======
+
 
 		//hen shu fu !
 		
