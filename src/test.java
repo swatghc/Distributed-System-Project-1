@@ -18,10 +18,6 @@ public class test {
 		
 		//wa!!!
 		
-		//hen shu fu !
-		
-		//hey hey!
-		
 		
 	
 		
