@@ -13,17 +13,14 @@ public class test {
 		//how to update this line
 		
 		System.out.println("hello there");
-		
-		System.out.println("zen me shuoXXXXXXXXXXXXXXXXXXX");
+
+		System.out.println("zen me shuoXXXXXXXXXXXKKKKkKKKKKKXXXXXXXX");
+
 		
 		//wa!!!
 		
-		//hen shu fu !
-		
-		//hey hey!
-		
-		
-	
+		//testing1
+	    //hello there
 		
 
 	}
