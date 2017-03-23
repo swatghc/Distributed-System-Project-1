@@ -20,6 +20,18 @@ public class test {
 		//wa!!!
 		
 
+<<<<<<< HEAD
+=======
+
+		//hen shu fu !
+		
+		//it is a good day
+		
+		//testing
+
+		
+
+>>>>>>> swatghc/master
 		
 
 	}
