@@ -18,8 +18,17 @@ public class test {
 		
 		//wa!!!
 		
-		//testing1
-	    //hello there
+<<<<<<< Updated upstream
+=======
+
+		//hen shu fu !
+		
+		//it is a good day
+		
+		//testing
+
+		
+
 		
 
 	}
