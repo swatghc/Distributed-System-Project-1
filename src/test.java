@@ -16,11 +16,21 @@ public class test {
 
 		System.out.println("zen me shuoXXXXXXXXXXXKKKKkKKKKKKXXXXXXXX");
 
-		
+		System.out.println("eventually we succeeded!");
 		//wa!!!
 		
-		//testing1
-	    //hello there
+
+
+		//hen shu fu !
+		
+		//it is a good day
+		
+		//testing
+
+		
+		System.out.println("hope it works");
+		
+
 		
 
 	}
