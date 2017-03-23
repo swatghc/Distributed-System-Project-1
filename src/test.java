@@ -14,16 +14,12 @@ public class test {
 		
 		System.out.println("hello there");
 		
-		System.out.println("zen me shuoXXXXXXXXXXXXX");
+
 		
 		//wa!!!
 		
-		//hen shu fu !
-		
-		//hey hey!
-		
-		
-	
+		//testing1
+	    //hello there
 		
 
 	}
