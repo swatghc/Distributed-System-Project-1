@@ -20,6 +20,8 @@ public class test {
 		//wa!!!
 		
 
+<<<<<<< HEAD
+=======
 
 		//hen shu fu !
 		
@@ -31,6 +33,7 @@ public class test {
 		System.out.println("hope it works");
 		
 
+>>>>>>> swatghc/master
 		
 
 	}
